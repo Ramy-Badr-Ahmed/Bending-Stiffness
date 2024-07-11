@@ -4,6 +4,7 @@ import java.math.RoundingMode;
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.Properties;
 
 public class Snake {
 
@@ -11,12 +12,17 @@ public class Snake {
     private static final String SNAKE_FILE_PATH = "data/snake.txt";
     private static final String ELONGATION_FILE_PATH = "data/elongation.txt";
 
-    public static void main(String[] args) {
-        int snakeRows = 213863;
-        int snakeColumns = 4;
-        int xyCoordinatesRows = 2000;
-        int xyCoordinatesColumns = 2;
-        int squaredDisplacementNumber = 1000;
+    public static void main(String[] args) throws IOException {
+
+        Properties prop = new Properties();
+        FileInputStream input = new FileInputStream("config.properties");
+        prop.load(input);
+
+        int snakeRows = Integer.parseInt(prop.getProperty("snakeRows"));
+        int snakeColumns = Integer.parseInt(prop.getProperty("snakeColumns"));
+        int xyCoordinatesRows = Integer.parseInt(prop.getProperty("xyCoordinatesRows"));
+        int xyCoordinatesColumns = Integer.parseInt(prop.getProperty("xyCoordinatesColumns"));
+        int squaredDisplacementNumber = Integer.parseInt(prop.getProperty("squaredDisplacementNumber"));
 
         double[][] snakeData = new double[snakeRows][snakeColumns];
         double[][] xyCoordinates = new double[xyCoordinatesRows][xyCoordinatesColumns];

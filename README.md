@@ -8,6 +8,7 @@ A java code analysing the Bending Stiffness of Actin Filament Experiment.
 - Reads coordinates from `snake.txt` of a measured filament (an example is in the `images` directory)
 - Calculates the mean squared displacement (MSD) and contour length from data
 - Error calculation in persistence length and contour length are saved in `mathematica` directory.
+- (optional) Modify `config.properties` as needed.
 
 ### Running the Demo
 
