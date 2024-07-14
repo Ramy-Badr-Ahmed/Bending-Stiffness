@@ -1,6 +1,8 @@
-![GitHub top language](https://img.shields.io/github/languages/top/Ramy-Badr-Ahmed/bendingStiffness?cacheSeconds=1)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+
+![GitHub top language](https://img.shields.io/github/languages/top/Ramy-Badr-Ahmed/bendingStiffness?color=orange)
 ![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/bendingStiffness)
-[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Ramy-Badr-Ahmed/bendingStiffness/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Ramy-Badr-Ahmed/bendingStiffness)
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:65f4716d51672926f9ae328ea314d969e37534c6/)](https://archive.softwareheritage.org/swh:1:dir:65f4716d51672926f9ae328ea314d969e37534c6;origin=https://github.com/Ramy-Badr-Ahmed/bendingStiffness;visit=swh:1:snp:cf3a5710e567c74b08a7144be79796fb78e9743c;anchor=swh:1:rev:ae6455bbac2db3f8838eb0d69b5ba09e5f50d06e)
 
 ### Summary
 
