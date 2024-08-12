@@ -1,6 +1,6 @@
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/bendingStiffness?style=plastic)
 
-[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:65f4716d51672926f9ae328ea314d969e37534c6/)](https://archive.softwareheritage.org/swh:1:dir:65f4716d51672926f9ae328ea314d969e37534c6;origin=https://github.com/Ramy-Badr-Ahmed/bendingStiffness;visit=swh:1:snp:cf3a5710e567c74b08a7144be79796fb78e9743c;anchor=swh:1:rev:ae6455bbac2db3f8838eb0d69b5ba09e5f50d06e) ![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/bendingStiffness)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12808969.svg)](https://doi.org/10.5281/zenodo.12808969) [![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:65f4716d51672926f9ae328ea314d969e37534c6/)](https://archive.softwareheritage.org/swh:1:dir:65f4716d51672926f9ae328ea314d969e37534c6;origin=https://github.com/Ramy-Badr-Ahmed/bendingStiffness;visit=swh:1:snp:cf3a5710e567c74b08a7144be79796fb78e9743c;anchor=swh:1:rev:ae6455bbac2db3f8838eb0d69b5ba09e5f50d06e) 
 
 ### Summary
 
